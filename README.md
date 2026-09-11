@@ -1,6 +1,6 @@
 # Satellite Edge Computing (SEC) Simulator & Scheduler
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22711029.svg)](https://doi.org/10.5281/zenodo.22711029)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22711218.svg)](https://doi.org/10.5281/zenodo.22711218)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A multi-threaded, object-oriented Python simulator designed to evaluate task scheduling algorithms in a Low Earth Orbit (LEO) Satellite Edge Computing environment. This platform explicitly models the strict physical constraints of space networks, including dynamic orbital visibility, intermittent solar charging cycles, and hardware resource limits.
